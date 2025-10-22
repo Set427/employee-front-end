@@ -1,7 +1,11 @@
 
 
+
 EmployeeFlow este o aplicație completă de management al angajaților, dezvoltată ca proiect personal pentru a explora arhitectura full-stack modernă.
 Aceasta include un frontend construit cu Vite, React, TypeScript, shadcn/ui și Tailwind CSS, care comunică cu un backend Java Spring Boot printr-un sistem de autentificare JWT configurat manual.
+
+
+Partea de backend https://github.com/Set427/backend
 
 -------------------Tehnologii folosite-------------------------- : 
 
